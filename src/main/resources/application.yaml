@@ -1,0 +1,6 @@
+server:
+  port: 9096
+spring:
+  ai:
+    ollama:
+      llama3
